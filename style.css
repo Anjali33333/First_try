@@ -1,0 +1,29 @@
+.abc{
+
+   background-image:url(background.jpg);
+}
+h1{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   text-align: center;
+   color: rgb(9, 63, 63);
+}
+p{
+    text-align: center;
+}
+.jform{
+    background-color:cadetblue;
+    text-align: center;
+}
+.mb-3{
+    text-align: center;
+    background-color: rgb(150, 113, 141);
+    font-family: cursive;
+}
+.def{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(9, 63, 63);
+}
+p{
+    background-image:fullscreen url(https://www.pexels.com/photo/restaurant-table-and-chairs-1581384/) style="width:100%" alt="Restaurant";
+}
